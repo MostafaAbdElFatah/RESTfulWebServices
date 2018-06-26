@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RESTfulWebServices</string>
+    <string name="action_XMLTask">XML Task</string>
+    <string name="action_JSONTask">JSON Task</string>
+    <string name="action_GETParametrsTask">GET Params Task</string>
+    <string name="action_POSTParametrsTask">POST Params Task</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mostafa.fci.restfulwebservices.MainActivity">
+    <item
+        android:id="@+id/action_XMLTask"
+        android:orderInCategory="100"
+        android:title="@string/action_XMLTask"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_JSONTask"
+        android:orderInCategory="100"
+        android:title="@string/action_JSONTask"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_GETParametrsTask"
+        android:orderInCategory="100"
+        android:title="@string/action_GETParametrsTask"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_POSTParametrsTask"
+        android:orderInCategory="100"
+        android:title="@string/action_POSTParametrsTask"
+        app:showAsAction="never" />
+
+</menu>
